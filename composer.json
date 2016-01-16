@@ -1,13 +1,13 @@
 {
-    "name": "iam-decoder/SimpleAngularApp",
-    "version": ">=1.0.0",
+    "name": "iam-decoder/simple-angular-app",
+    "version": "1.0.0",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iam-decoder/SimpleAngularApp"
+            "url": "https://github.com/iam-decoder/simple-angular-app"
         }
     ],
     "require": {
-        "iam-decoder/SimpleAngularApp": "dev-master"
+        "iam-decoder/simple-angular-app": "dev-master"
     }
 }
