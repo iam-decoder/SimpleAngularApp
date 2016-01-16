@@ -1,4 +1,11 @@
 # SimpleAngularApp
+
+→ Author: Travis Neal
+
+→ License: [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
+
+→ Web: [https://github.com/iam-decoder](https://github.com/iam-decoder)
+
 A simple application to show a basic implementation of AngularJS
 
 ## Application Purpose
